@@ -1,25 +1,83 @@
-! AdGuard Home allowlist
+! AdGuard Home allowlist (Suomi / viranomaiset / pankit / rahoitus / ajoneuvot)
 
+! --- Viranomaiset ---
 @@||suomi.fi^
 @@||www.suomi.fi^
 @@||asiointi.suomi.fi^
 @@||tunnistus.suomi.fi^
-@@||palveluhallinta.suomi.fi^
 
 @@||vero.fi^
 @@||www.vero.fi^
-@@||asiointi.vero.fi^
-@@||oma.vero.fi^
 @@||omavero.vero.fi^
+@@||asiointi.vero.fi^
 
+@@||dvv.fi^
+@@||www.dvv.fi^
+
+! --- Pankit ---
 @@||op.fi^
 @@||www.op.fi^
 @@||pankki.op.fi^
 @@||secure.op.fi^
 @@||idp.op.fi^
-
 @@||osuuspankki.fi^
 @@||www.osuuspankki.fi^
 
-@@||dvv.fi^
-@@||www.dvv.fi^
+@@||nordea.fi^
+@@||www.nordea.fi^
+@@||netbank.nordea.fi^
+@@||login.nordea.fi^
+
+@@||danskebank.fi^
+@@||www.danskebank.fi^
+@@||netbank.danskebank.fi^
+
+@@||s-pankki.fi^
+@@||www.s-pankki.fi^
+@@||asiointi.s-pankki.fi^
+
+@@||aktia.fi^
+@@||www.aktia.fi^
+@@||online.aktia.fi^
+
+@@||poppankki.fi^
+@@||www.poppankki.fi^
+
+@@||omasp.fi^
+@@||www.omasp.fi^
+
+@@||handelsbanken.fi^
+@@||www.handelsbanken.fi^
+
+@@||alandsbanken.fi^
+@@||www.alandsbanken.fi^
+
+! --- Rahoitus / maksut ---
+@@||klarna.com^
+@@||www.klarna.com^
+@@||walley.fi^
+@@||www.walley.fi^
+@@||santanderconsumer.fi^
+@@||www.santanderconsumer.fi^
+@@||svea.com^
+@@||svea.fi^
+@@||resursbank.fi^
+@@||www.resursbank.fi^
+
+! --- Ajoneuvojen asiointi / Traficom ---
+! Traficomin päädomain
+@@||traficom.fi^
+@@||www.traficom.fi^
+
+! Traficomin sähköinen asiointi (ajoneuvot, rekisteröinti, omistajanvaihdot)
+@@||asiointipalvelu.traficom.fi^
+@@||asiointi.traficom.fi^
+@@||palvelut.traficom.fi^
+
+! Liikenneasioinnin kirjautumisia varten (jos ohjaa alidomaineihin)
+@@||liikenne.traficom.fi^
+@@||liikenneasiointi.traficom.fi^
+
+! Katsastustietoja ja rekisteriotteita varten, jos nämä tulevat Traficomin kautta
+@@||rekisteri.traficom.fi^
+@@||ajoneuvot.traficom.fi^
