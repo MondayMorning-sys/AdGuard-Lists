@@ -1,0 +1,22 @@
+! AdGuard Home allowlist
+
+@@||suomi.fi^
+@@||www.suomi.fi^
+@@||asiointi.suomi.fi^
+
+@@||vero.fi^
+@@||www.vero.fi^
+@@||omavero.vero.fi^
+@@||asiointi.vero.fi^
+
+@@||op.fi^
+@@||www.op.fi^
+@@||pankki.op.fi^
+@@||secure.op.fi^
+@@||idp.op.fi^
+
+@@||osuuspankki.fi^
+@@||www.osuuspankki.fi^
+
+@@||dvv.fi^
+@@||www.dvv.fi^
